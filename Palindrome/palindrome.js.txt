@@ -8,4 +8,4 @@ function palindrome(str) {
     if (reverse == str) { return true; }
     else { return false; }
 }
-//Code is incorrect.
+//All Good 

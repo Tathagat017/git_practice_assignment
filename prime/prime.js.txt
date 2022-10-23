@@ -9,4 +9,4 @@ function prime(num) {
 
 }
 
-//code is incorrect
+//All Good
